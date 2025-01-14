@@ -8,6 +8,10 @@ This is the frontend part of the Artemis task, built with React.
 - Node.js
 - npm or yarn
 
+## Dependecies
+
+- Axios
+
 ## Installation
 
 1. Clone the repository:
