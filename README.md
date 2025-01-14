@@ -13,7 +13,7 @@ This is the frontend part of the Artemis task, built with React.
 1. Clone the repository:
    ```bash
    git clone https://github.com/sana2k/task-artemis-frontend.git
-   cd artemis-frontend
+   cd task-artemis-frontend
    ```
 
 2. Install dependencies:
